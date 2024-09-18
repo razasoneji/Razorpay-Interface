@@ -33,4 +33,3 @@ This project is a clone of the Razorpay user interface built using **Tailwind CS
 ## Technologies Used
 
 - **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
-```
