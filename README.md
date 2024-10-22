@@ -36,11 +36,11 @@ This project is a clone of the Razorpay user interface built using **Tailwind CS
 
 
 ## SCREENSHOTS
-![Screenshot 2024-09-19 010921](https://github.com/user-attachments/assets/96e582c7-765d-4c6e-8657-b2e222c3abbc)
+![Screenshot 2024-09-19 010921](https://github.com/user-attachments/assets/96e582c7-765d-4c6e-8657-b2e222c3abbc) ![Screenshot 2024-09-19 010935](https://github.com/user-attachments/assets/308e6b9b-d1fa-4b9f-8d0c-f541774b04fe)
 
 
 
-![Screenshot 2024-09-19 010935](https://github.com/user-attachments/assets/308e6b9b-d1fa-4b9f-8d0c-f541774b04fe)
+
 
 
 ![Screenshot 2024-09-19 010941](https://github.com/user-attachments/assets/151b4577-eae5-4d7c-b75c-ea01bc1db7d1)
